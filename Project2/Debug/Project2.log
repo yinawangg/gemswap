@@ -1,0 +1,53 @@
+﻿  GroupA_Skeleton_2017f.cpp
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(432): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(443): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(447): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(455): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(466): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(470): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(491): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(499): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(594): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(598): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(632): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(695): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(698): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(699): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(700): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(746): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(751): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(753): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(754): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(755): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(801): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(804): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(805): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(806): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(846): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(849): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(850): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(851): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(895): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(899): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(901): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(985): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(985): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(988): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(992): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(992): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(995): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(999): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(999): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1002): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1006): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1006): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1013): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1013): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1020): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1020): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1029): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1030): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1031): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\documents\graphics\groupa_skeleton_2017f.cpp(1142): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Yina\source\repos\Project2\Debug\Project2.exe
+  Project2.vcxproj -> C:\Users\Yina\source\repos\Project2\Debug\Project2.pdb (Partial PDB)
